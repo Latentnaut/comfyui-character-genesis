@@ -1,6 +1,6 @@
-# ComfyUI Character Genesis
+# ComfyUI Character Genesis (Nanobanana Pro)
 
-A comprehensive custom node for ComfyUI designed to elevate character creation to the level of a top-tier international **High-Fashion Casting Agency**.
+**ComfyUI Character Genesis (Nanobanana Pro)** is an advanced node suite designed to transform character generation into a professional **High-Fashion Casting** workflow.
 
 Instead of relying on basic labels or generic prompts, Character Genesis adopts the professional jargon, descriptors, and facial typologies used by world-class casting directors to scout and classify models for luxury brands, editorial campaigns, and commercial lifestyle marketing. This powerful tool provides modular control over every aspect of portrait generation, leveraging true industry standards like "Casting Archetypes" designed specifically for demanding, high-fidelity models like Nanobanana Pro.
 
@@ -36,21 +36,15 @@ Instead of relying on basic labels or generic prompts, Character Genesis adopts 
 
 ## 🚀 Installation
 
-### Method 1: ComfyUI Manager (Recommended)
-1. Open ComfyUI Manager
-2. Search for `florestefano1975` in the search bar
-3. Click the install button for "ComfyUI Portrait Master"
-4. Restart ComfyUI
-
-### Method 2: Manual Installation
+### Method 1: Manual Installation
 1. Navigate to your ComfyUI `custom_nodes` folder
 2. Open terminal/command prompt in this directory
-3. Run: `git clone https://github.com/florestefano1975/comfyui-portrait-master`
+3. Run: `git clone https://github.com/Latentnaut/comfyui-character-genesis`
 4. Restart ComfyUI
 
-### Method 3: Manual Update
+### Method 2: Manual Update
 To update an existing installation:
-1. Navigate to the `comfyui-portrait-master` folder
+1. Navigate to the `comfyui-character-genesis` folder
 2. Run: `git pull`
 3. Restart ComfyUI
 
@@ -269,5 +263,5 @@ Your support helps maintain and improve this project for the entire community.
 
 ---
 
-**Created by [AI Wiz Art](https://ai-wiz.art) (Stefano Flore)**  
-**Version 3.5.0** | **[GitHub Repository](https://github.com/florestefano1975/comfyui-portrait-master)**
+**Created for Nanobanana Pro**  
+**Version 3.5.0** | **[GitHub Repository](https://github.com/Latentnaut/comfyui-character-genesis)**
